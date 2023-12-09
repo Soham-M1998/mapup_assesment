@@ -69,7 +69,7 @@ def find_ids_within_ten_percentage_threshold(df, reference_id):
 result_within_threshold = find_ids_within_ten_percentage_threshold(unrolled_df, reference_id=your_reference_id)
 print(result_within_threshold)
 **********************************************************************************************************************************
-solution 4
+#solution 4
 def calculate_toll_rate(df):
     
     rate_coefficients = {'moto': 0.8, 'car': 1.2, 'rv': 1.5, 'bus': 2.2, 'truck': 3.6}
